@@ -1,0 +1,6 @@
+student 123456
+1
+math
+kafka
+-
+91

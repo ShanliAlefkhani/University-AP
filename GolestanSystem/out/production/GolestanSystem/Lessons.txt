@@ -1,0 +1,13 @@
+math
+professor
+0
+1
+student
+fiz
+professor
+12
+0
+biology
+professor
+30
+0
